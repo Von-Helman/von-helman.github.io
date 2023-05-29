@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mottos on Helman Blog</title>
+    <link>https://von-helman.github.io/motto/</link>
+    <description>Recent content in Mottos on Helman Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 May 2023 15:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://von-helman.github.io/motto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>名言</title>
+      <link>https://von-helman.github.io/2023/05/24/istio-canary-release/</link>
+      <pubDate>Wed, 24 May 2023 15:00:00 +0000</pubDate>
+      
+      <guid>https://von-helman.github.io/2023/05/24/istio-canary-release/</guid>
+      <description>关于我 Hi，我是赵化冰，服务网格技术布道者及实践者，腾讯云工程师，曾担任中兴通讯技术专家，Linux 基金会开源项目 ONAP 项目 leader，甲骨文</description>
+    </item>
+    
+  </channel>
+</rss>

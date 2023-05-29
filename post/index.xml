@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Helman Blog</title>
+    <link>https://von-helman.github.io/post/</link>
+    <description>Recent content in Posts on Helman Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 May 2023 15:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://von-helman.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>名言</title>
+      <link>https://von-helman.github.io/2023/05/24/istio-canary-release/</link>
+      <pubDate>Wed, 24 May 2023 15:00:00 +0000</pubDate>
+      
+      <guid>https://von-helman.github.io/2023/05/24/istio-canary-release/</guid>
+      <description>关于我 Hi，王畅，这里会分享一些有趣的事。 #biliplayer { width: 100%; height: 600px; } @media only screen and (min-device-width: 320px) and (max-device-width: 480px) { #biliplayer { width: 100%; height: 250px; } } 工作联系： 3137814241@qq.com 出版物 标题 类型 出版社 链接 深入理解 Istio —</description>
+    </item>
+    
+    <item>
+      <title>微服务安全沉思录之一</title>
+      <link>https://von-helman.github.io/2018/05/22/user_authentication_authorization/</link>
+      <pubDate>Wed, 23 May 2018 10:00:00 +0000</pubDate>
+      
+      <guid>https://von-helman.github.io/2018/05/22/user_authentication_authorization/</guid>
+      <description>这段时间对之前微服务安全相关的一些想法进行了进一步总结和归纳，理清了在之前文章里面没有想得太清楚的地方，例如服务间的认证与鉴权以及用户身份在</description>
+    </item>
+    
+    <item>
+      <title>使用Algolia为Gitpage博客提供站内搜索</title>
+      <link>https://von-helman.github.io/2018/05/21/algolia-integration-with-jekyll/</link>
+      <pubDate>Mon, 21 May 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://von-helman.github.io/2018/05/21/algolia-integration-with-jekyll/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;This series of articles are my notes of &amp;ldquo;Bitcoin and Cryptocurrency Technologies&amp;rdquo; online course.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;table-of-content&#34;&gt;Table of Content&lt;/h2&gt;
+&lt;p&gt;{:.no_toc}&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Table of Content
+{:toc}&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;scrooge-coin-transaction&#34;&gt;Scrooge Coin Transaction&lt;/h2&gt;
+&lt;p&gt;Scrooge Coin programming assignment is a little bit tricky, the video of this lesson hasn&amp;rsquo;t explained some implementation details. To help you understand the transaction data structure used in Scrooge Coin, I draw this diagram:
+
+  &lt;img src=&#34;https://von-helman.github.io/img/2018-5-20-cryptocurrency_week1_scroogecoin/scroogecoin.png&#34; alt=&#34;Scrooge Coin&#34;&gt;
+
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>川西秘境探险</title>
+      <link>https://von-helman.github.io/2018/05/01/may-day-jiulonghu/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://von-helman.github.io/2018/05/01/may-day-jiulonghu/</guid>
+      <description>&lt;h2 id=&#34;寻浮云牧场不遇&#34;&gt;寻浮云牧场不遇&lt;/h2&gt;
+&lt;p&gt;五一节前的一周内，几个朋友就纷纷坐不住了，一个二个不再安心上班，开始在微信群里讨论过节要到哪里耍。
+大家思来想去，最后决定还是去理县方向。因为根据多年自驾的经验，只要出了汶川，沿途都是风景。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>如何构建安全的微服务应用？</title>
+      <link>https://von-helman.github.io/2018/05/22/user_authentication_authorization/</link>
+      <pubDate>Sat, 03 Feb 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://von-helman.github.io/2018/05/22/user_authentication_authorization/</guid>
+      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;微服务架构的引入为软件应用带来了诸多好处：包括小开发团队，缩短开发周期，语言选择灵活性，增强服务伸缩能力等。与此同时，也引入了分布式系统的诸多复杂问题。其中一个挑战就是如何在微服务架构中实现一个灵活，安全，高效的认证和鉴权方案。本文将尝试就此问题进行一次比较完整的探讨。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>使用Istio实现应用流量转移</title>
+      <link>https://von-helman.github.io/2017/11/07/istio-traffic-shifting/</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://von-helman.github.io/2017/11/07/istio-traffic-shifting/</guid>
+      <description>&lt;p&gt;关于Istio的更多内容请参考&lt;a href=&#34;http://istio.doczh.cn/&#34;&gt;istio中文文档&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;原文参见&lt;a href=&#34;https://istio.io/docs/tasks/traffic-management/traffic-shifting.html&#34;&gt;Traffic Shifting&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;本任务将演示如何将应用流量逐渐从旧版本的服务迁移到新版本。通过Istio，可以使用一系列不同权重的规则（10%，20%，··· 100%）将流量平缓地从旧版本服务迁移到新版本服务。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
